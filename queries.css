@@ -1,0 +1,46 @@
+@media (max-width: 780px) {
+  .set {
+    flex-direction: column;
+    row-gap: 4rem;
+    margin: 5rem auto;
+  }
+
+  .drum {
+    width: 349px;
+    height: 320px;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .j {
+    background-image: url("phoneIMG/eren_jeager.jpg");
+  }
+
+  .e {
+    background-image: url("phoneIMG/erwin_smith.jpg");
+  }
+
+  .l {
+    background-image: url("phoneIMG/lawliet.jpg");
+  }
+
+  .k {
+    background-image: url("phoneIMG/kokushibo.jpg");
+  }
+
+  .c {
+    background-image: url("phoneIMG/levi_ackerman.jpg");
+  }
+
+  .m {
+    background-image: url("phoneIMG/mikey.jpg");
+  }
+
+  .s {
+    background-image: url("phoneIMG/shinobu.jpg");
+  }
+
+  .y {
+    background-image: url("phoneIMG/yumeko-sama.jpg");
+  }
+}
